@@ -57,6 +57,10 @@
 // console.log(plusNumber(60, 40));
 
 // mizani: dagvibrunos 5 priovnebis sashvalo qula
-function avarageNumber() {}
+// function avarageNumber() {}
 
-avarageNumber(4, 5, 1, 0, 10); // return : avarage
+// avarageNumber(4, 5, 1, 0, 10); // return : avarage
+let num = 10;
+let str = "20";
+
+console.log(num + str);
